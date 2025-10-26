@@ -1,13 +1,14 @@
 # Lectures
 
-6 lectures are planned for this project, here you'll find a directory and brief introduction to each project.
+As Danesh Computer Club aims to stimulate modern working environments, it's essential that we educate each other on core programing principals and concepts. Conferences are intended to discuss these key topics, as such, here is a directory for all the lectured topics.
+
 
 ## 1: Advanced Git
-**About:** Understanding git is cruicial for developers, saving time and preventing disasters. We'll aim to dicuss the power of gits most useful features, that aren't commonly known.
+**About:** Collaboration is fundemental skill required in workspaces, thus it is critical for programmers to grasp tooling that streamlines productivity while dealing with stressful and tedious collaboration. Git stands as the most source controlling tool, yet many programmers lack adequate skills to harness its full potential. We're going to talk about less known yet compulsory git functions and use-cases. 
 
-**Written article:** https://github.com/Danesh-CS-Club/git-lecture
+**Article:** https://github.com/Danesh-CS-Club/git-lecture
 
-**Youtube link:**
+**Recorded Conference:**
 
 **Lecture given by:** [`Ryan Samaeian`](https://github.com/k1nxx), [`Arman Jamshidi`](https://github.com/Armanj88)
 
