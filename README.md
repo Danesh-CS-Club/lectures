@@ -4,7 +4,7 @@ As Danesh Computer Club aims to stimulate modern working environments, it's esse
 
 
 ## 1: Advanced Git
-**About:** Collaboration is fundemental skill required in workspaces, thus it is critical for programmers to grasp tooling that streamlines productivity while dealing with stressful and tedious collaboration. Git stands as the most source controlling tool, yet many programmers lack adequate skills to harness its full potential. We're going to talk about less known yet compulsory git functions and use-cases. 
+**About:** Collaboration is fundemental skill required in workspaces, thus it is critical for programmers to grasp tooling that streamlines productivity while dealing in stressful and tedious collaboration. Git stands as the most popular source controlling tool, yet many programmers lack adequate skills to harness its full potential. We're going to talk about less known yet compulsory git functions and use-cases. 
 
 **Article:** https://github.com/Danesh-CS-Club/git-lecture
 
