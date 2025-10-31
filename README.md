@@ -10,7 +10,7 @@ As Danesh Computer Club aims to stimulate modern working environments, it's esse
 
 **Recorded Conference:**
 
-**Lecture given by:** [`Ryan Samaeian`](https://github.com/k1nxx), [`Arman Jamshidi`](https://github.com/Armanj88)
+**Lecture given by:** [`Ryan Samaeian`](https://github.com/k1nxx), [`Arman Altafi`](https://github.com/arman-atf)
 
 ## 2: Compilers and LLVM
 
